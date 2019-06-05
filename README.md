@@ -1,6 +1,8 @@
 
 Structs contains various utilities to work with Go (Golang) structs. 
 
+# Structs [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/levakin/structs) [![Build Status](http://img.shields.io/travis/levakin/structs.svg?style=flat-square)](https://travis-ci.org/levakin/structs) [![Coverage Status](http://img.shields.io/coveralls/levakin/structs.svg?style=flat-square)](https://coveralls.io/r/levakin/structs)
+
 ## Install
 
 ```bash
@@ -152,6 +154,7 @@ for _, f := range s.Fields() {
 
  * [Fatih Arslan](https://github.com/fatih)
  * [Cihangir Savas](https://github.com/cihangir)
+ * [Levakin_Anton](https://github.com/levakin)
 
 ## License
 
